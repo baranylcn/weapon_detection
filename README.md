@@ -8,5 +8,4 @@ The data set was created by labeling gun images.
 
 # Result
 
-
-![linkedin_drill](https://github.com/baranylcn/deneme/assets/98966968/e6f90be4-8d07-49a1-85c3-c5ee8e216037)
+![linkedin_drill](https://github.com/baranylcn/weapon_detection/assets/98966968/79f41f07-5df9-45bc-948e-1c7f8b2c1ef6)
