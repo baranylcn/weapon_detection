@@ -4,7 +4,8 @@ This project implements a weapon detection system using the YOLOv8 object detect
 # Dataset
 The data set was created by labeling gun images.
 
-![github_labels2](https://github.com/baranylcn/deneme/assets/98966968/520d2e65-109f-4bee-b15f-036babb79534)
+![labeling](https://github.com/user-attachments/assets/f174823b-5493-4211-a132-af46550de1e0)
+
 
 # Result
 
